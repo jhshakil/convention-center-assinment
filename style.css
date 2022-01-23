@@ -1,0 +1,13 @@
+.checkmark {
+    width: 20px;
+    padding: 2px;
+}
+
+.top-padding {
+    padding: 60px 10px 10px 10px;
+}
+
+.top-padding-2 {
+    padding : 20px;
+    border-radius: 20px;
+}
