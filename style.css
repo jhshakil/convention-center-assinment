@@ -1,13 +1,36 @@
 .checkmark {
     width: 20px;
     padding: 2px;
+    background-color: #5243c246;
 }
-
 .top-padding {
     padding: 60px 10px 10px 10px;
 }
-
 .top-padding-2 {
     padding : 20px;
     border-radius: 20px;
+}
+.txt-color {
+    color: #231D4F;
+}
+.bg-1 {
+    background-color: #3F87F5;
+}
+.btn-color {
+    background-color: #f496d22c;
+}
+.bg-2 {
+    background-color: #0B0D17;
+}
+.apps-store {
+    background-color: #000000;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.hot-btn {
+    padding: 0px 8px 0px 10px;
+}
+.top-position {
+    top: -10px;
+    right: 35px;
 }
