@@ -1,3 +1,19 @@
+.bg-image {
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+}
+.bg-image-1 {
+    background-image: url(images/banner-1.png);
+    background-repeat: no-repeat;
+}
+.bg-image-2 {
+    background-image: url(images/banner-2.png);
+    background-repeat: no-repeat;
+}
+
+.bg-padding {
+    padding: 8%;
+}
 .checkmark {
     width: 20px;
     padding: 2px;
@@ -21,6 +37,12 @@
 }
 .bg-2 {
     background-color: #0B0D17;
+}
+.bg-3 {
+    background-color: #5243c246;
+}
+.bg-4 {
+    background-color: #3f88f54d
 }
 .apps-store {
     background-color: #000000;
