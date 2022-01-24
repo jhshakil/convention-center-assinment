@@ -1,3 +1,4 @@
+/* Header-background-image */
 .bg-image {
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
@@ -10,10 +11,10 @@
     background-image: url(images/banner-2.png);
     background-repeat: no-repeat;
 }
-
 .bg-padding {
     padding: 8%;
 }
+/* Utility */
 .checkmark {
     width: 20px;
     padding: 2px;
@@ -44,6 +45,7 @@
 .bg-4 {
     background-color: #3f88f54d
 }
+/* Footer section  */
 .apps-store {
     background-color: #000000;
     border: 2px solid white;
