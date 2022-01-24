@@ -14,7 +14,7 @@
 .bg-padding {
     padding: 8%;
 }
-/* Utility */
+/* Package */
 .checkmark {
     width: 20px;
     padding: 2px;
@@ -27,6 +27,11 @@
     padding : 20px;
     border-radius: 20px;
 }
+.top-position {
+    top: -10px;
+    right: 35px;
+}
+/* Utility */
 .txt-color {
     color: #231D4F;
 }
@@ -55,7 +60,4 @@
 .hot-btn {
     padding: 0px 8px 0px 10px;
 }
-.top-position {
-    top: -10px;
-    right: 35px;
-}
+
